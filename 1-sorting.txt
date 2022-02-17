@@ -1,0 +1,19 @@
+//let the numbers to be one two and three
+//conditioning and brancding
+    //IF one < two and three < two:
+        //IF one > three:
+            //print(three, one, two)
+        //ELSE:
+            //print(one, three, two)
+    //ELSE IF one < three and two < three:
+        //IF one > two:
+            //print(two, one, three)
+        //ELSE:
+            //print(one, two, three)        
+    //ELSE IF two < one and three < one:
+        //IF three > two:
+            //print(two, three, one)
+        //ELSE:
+            //print(three, two, one)
+    //ELSE
+        //print(one, two, three)

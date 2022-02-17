@@ -1,0 +1,5 @@
+//Let given input of numbers be N
+//let squre of given input be X
+//X=N*N
+//let sum = X+X
+//display "sum"

@@ -1,0 +1,5 @@
+//WHILE loop
+//set sum to be zero
+//add N numbers to sum while >=0
+//if N<0 break loop
+//print final value of sum
